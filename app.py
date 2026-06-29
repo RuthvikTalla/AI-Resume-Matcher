@@ -111,3 +111,4 @@ st.markdown("""
 AI Resume Matcher
 </p>
 """, unsafe_allow_html=True)
+# Git author verification
